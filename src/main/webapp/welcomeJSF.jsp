@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo !! - Commit para el fork  - 18 Julio 2025 7:17pm Jenkins" /></h1>
+                <h1><h:outputText value="Hola Mundo Jenkins" /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="All Products" id="linkProds" />
                 <br/>
