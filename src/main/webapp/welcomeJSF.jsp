@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo - Pipeline Dockerhub 7:05" /></h1>
+                <h1><h:outputText value="Hola Mundo - Pipeline GithubActions para Dockerhub 7:20" /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="All Products" id="linkProds" />
                 <br/>
